@@ -1,0 +1,24 @@
+a{
+  font-size: 13px;
+  color: #3b5998;
+  padding: 0px;
+  margin: 0px;
+}
+
+td, th {
+  width: 100px;
+  padding: 0px;
+}
+/*tr {*/
+  /*width: 5px;*/
+  /*padding: 0px;*/
+/*}*/
+
+.secondTable {
+  /*column-width: 5px;*/
+  color: lightgray;
+  table-layout: fixed;
+  width: auto;
+  border-top: solid;
+  border-width: 1px;
+}
